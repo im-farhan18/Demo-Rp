@@ -1,2 +1,3 @@
 let demo = document.body.style.backgroundColor;
-console.log(demo);yjyjyjyj
+console.log(demo);
+mmm
