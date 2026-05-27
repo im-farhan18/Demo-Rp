@@ -1,7 +1,4 @@
-h1 {
-  color: red;
-  font-size: 4em;
-}
-body {
-  background-color: rgb(160, 63, 152);
+.photow{
+  height: 100px;
+  width: 100px;
 }
