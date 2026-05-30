@@ -1,4 +1,5 @@
-let div = document.querySelector("div");
+let div= document.querySelector("div");
 
- let id = div.getAttribute("id")
-console.log(id)
+div.onmouseover=()=> {{
+    console.log("hvr")
+}}ujui567ui57tuj57
