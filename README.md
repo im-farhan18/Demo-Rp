@@ -1,1 +1,2 @@
-# DEMO-RP
+today i learned about the functions 
+
